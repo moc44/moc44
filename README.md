@@ -1,33 +1,45 @@
-Welcome to My GitHub Repo! 🎉
+# Hi, I'm Moro 👋
 
-Hello, Internet wanderer! Welcome to my digital oasis. I’m an enthusiastic newbie embarking on an epic journey through the vast expanses of programming and technology. My compass? Python 🐍, Artificial Intelligence 🤖, Cybersecurity 🛡️, and anything remotely innovative. If it’s new, shiny, and codable, I’m there!
+Welcome to my GitHub profile.
 
-About Me
+I'm a developer with a strong interest in **Python**, **Artificial Intelligence**, **automation**, and **cybersecurity**. I enjoy building real projects, exploring new technologies, and constantly improving my skills through hands-on work.
 
-	•	Name: [moro777]
-	•	Occupation: Digital Explorer and Code Wizard in Training
-	•	Location: In the heart of the Internet
+## About Me
 
-My Interests
+- 💻 I have already built and worked on different projects in software, automation, and AI
+- 🤖 I'm especially interested in AI agents, chatbots, and intelligent systems
+- 🐍 I enjoy working with Python and experimenting with modern tools and workflows
+- 🛡️ Cybersecurity and secure system design are fields that strongly interest me
+- 🚀 I like trying new technologies, testing ideas, and turning them into practical solutions
 
-	•	Python: I’m currently flirting with Python. We met over a “Hello, World!” and it’s been love at first code ever since.
-	•	Artificial Intelligence: I dream of creating my own AI buddy. One that tells better jokes than I do (low bar, I know).
-	•	Cybersecurity: I’m trying to build my digital fortress. Right now, it’s more of a sandbox, but hey, Rome wasn’t built in a day!
-	•	Innovation: If it’s new, I have to try it. From the latest tech gadgets to experimental programming languages – I’m up for anything!
+## What I'm Currently Focused On
 
-Experience
+- AI agents and chatbot systems
+- Automation tools and smart workflows
+- Python-based backend and tool development
+- Experimental projects around new technologies and innovative ideas
 
-Let’s face the facts: I’m a beginner. But as a wise man once said, “Every master was once a disaster.” So, I’m on the best path to becoming a master (or at least I hope so).
+## What You'll Find Here
 
-What You’ll Find Here
+- **AI Projects**  
+  Projects and experiments involving AI, chatbots, and intelligent workflows
 
-	•	Experiments: My attempts at navigating the world of technology. Some successful, others… learning experiences.
-	•	Learning Projects: My journey from “What’s a variable?” to hopefully soon “I’ve just reprogrammed the Internet.”
-	•	Laughs: I don’t take learning too seriously. Expect lots of bad jokes and code comments trying to be funny.
+- **Automation**  
+  Tools and systems designed to simplify processes and improve efficiency
 
-Contact
+- **Python Development**  
+  Practical projects built with Python and related technologies
 
-If you want to laugh, learn, or just say hello, don’t hesitate to reach out. I don’t bite – unless you’re an unresolved bug, then I show no mercy.
+- **Experiments & New Ideas**  
+  Repositories where I test new concepts, tools, and approaches
 
-Let’s laugh, learn, and explore the world of technology together. On to new adventures!
+## Mindset
 
+I like building things, solving problems, and continuously learning.  
+Technology evolves fast, and that's exactly what makes it exciting for me — there is always something new to explore, improve, and create.
+
+## Connect With Me
+
+- GitHub: [@moro777](https://github.com/moro777)
+
+Thanks for visiting my profile.
